@@ -1,48 +1,48 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
+    "name": "James Esguerra",
+    "label": "Software Engineer",
+    "image": "/me_avatar_2.png",
+    "email": "jamesesguerra025@gmail.com",
+    "phone": "+63 927-554-5245",
     "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "summary": "Software engineer specializing in Angular and .NET, with a strong passion for exploring the fundamentals of computer science. In my spare time, I enjoy writing and sharing articles on topics that intrigue me.",
+    "theme": "red",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "1110",
+      "city": "Quezon City",
+      "countryCode": "PH",
+      "region": "Philippines"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "james-esguerra-091224235",
+        "url": "https://www.linkedin.com/in/james-esguerra-091224235/"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "jamesesguerra",
+        "url": "https://github.com/jamesesguerra"
+      },
+      {
+        "network": "Medium",
+        "username": "jamesesguerra",
+        "url": "https://medium.com/@jamesesguerra025"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "name": "Stealth Monitoring",
+      "position": "Software Engineer I",
+      "location_type": "WFH",
+      "location": "Quezon City, Philippines",
+      "url": "https://stealthmonitoring.com/",
+      "startDate": "2023-08-23",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Developing and maintaining web and desktop applications using Angular, .NET Core, and Windows Forms. Collaborating with the team to implement new features and fix bugs.",
       "highlights": [
         "Improved website performance by optimizing code"
       ],
@@ -55,19 +55,21 @@
         "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "Angular",
+        ".NET Core",
+        "Azure",
+        "Winforms",
+        "SQL Server"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
+      "name": "Automaton Systems Inc.",
+      "position": "Solutions Engineer",
+      "location_type": "WFH",
+      "location": "Cebu City, Philippines",
+      "url": "https://www.automatonsystems.io/",
+      "startDate": "2023-02-01",
+      "endDate": "2023-08-01",
       "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
@@ -81,19 +83,20 @@
         "Successfully implemented a feature that enhanced user authentication, improving security measures."
       ],
       "skills": [
+        "React",
         "Python",
         "Django",
-        "SQL",
-        "Git"
+        "PostgreSQL"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
+      "name": "Automaton Systems Inc.",
+      "position": "Software Developer Intern",
+      "location_type": "WFH",
+      "location": "Cebu City, Philippines",
+      "url": "https://www.automatonsystems.io/",
       "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
+      "endDate": "2023-01-01",
       "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
       "highlights": [
         "Completed several client projects successfully"
@@ -119,51 +122,25 @@
   ],
   "education": [
     {
-      "institution": "State University",
+      "institution": "Ateneo de Manila University",
       "url": "https://stateuniversity.edu",
       "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "startDate": "2019-08-01",
+      "endDate": "2023-07-01",
+      "score": "3.66",
       "courses": [
         "CS101 - Introduction to Computer Science",
         "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
       ]
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "Azure Fundamentals (AZ-900)",
+      "date": "2024-02-24",
+      "issuer": "Microsoft",
+      "url": "https://learn.microsoft.com/api/credentials/share/en-us/JamesEsguerra-4776/D9DD4F18A52250B7?sharingId"
     }
   ],
   "skills": [
@@ -319,15 +296,15 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
+      "name": "kitchenet",
+      "isActive": true,
+      "description": "Github for food recipes",
       "highlights": [
         "Built with React and Tailwind CSS",
         "Includes a blog and contact form"
       ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "url": "https://kitchenet.vercel.app",
+      "github": "https://github.com/jamesesguerra/kitchenet-ui"
     },
     {
       "name": "Weather App",
