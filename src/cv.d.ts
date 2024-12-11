@@ -45,8 +45,8 @@ interface Work {
   url: string;
   startDate: DateStr;
   endDate: DateStr | null;
-  summary: string;
-  highlights: Highlight;
+  summary?: string;
+  highlights?: Highlight;
 }
 
 type DateStr = `${string}-${string}-${string}`;
