@@ -58,7 +58,7 @@ interface Volunteer {
   startDate: DateStr;
   endDate: DateStr;
   summary: string;
-  highlights: Highlight;
+  highlights?: Highlight;
 }
 
 interface Skills {
